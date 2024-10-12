@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background: #ffddff;
+  min-height: 150px;
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 16px;
+}
+
+.primary-color {
+  color: #663399;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  margin-left: 8px;
+}
