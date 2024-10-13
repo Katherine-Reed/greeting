@@ -20,6 +20,18 @@ main {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 button {
   margin-left: 8px;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
